@@ -1,2 +1,2 @@
 markdown: kramdown
-theme: Hacker
+remote-theme: pages-themes/hacker
