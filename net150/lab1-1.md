@@ -1,4 +1,9 @@
 ## Lab 1-1
+
+### Summary:
+Listing network device information on my desktop PC, from my Linux install.
+
+### Answers to questions:
 In Linux, on my desktop machine in my dorm, (connected to WiFi), my ethernet adapter has:
 - IPv4: `184.171.147.46`
 - Gateway: `184.171.147.0`
