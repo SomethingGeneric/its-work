@@ -1,4 +1,4 @@
 FROM crystallinux/crystal
-COPY pacman.conf /etc/.
-COPY bashrc /root/.bashrc
+COPY .devcontainer/pacman.conf /etc/.
+COPY .devcontainer/bashrc /root/.bashrc
 RUN pacman -Syu --noconfirm && pacman -S --noconfirm neofetch
