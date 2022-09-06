@@ -1,0 +1,1 @@
+FROM crystallinux/crystal

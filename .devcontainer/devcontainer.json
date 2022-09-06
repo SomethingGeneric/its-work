@@ -1,0 +1,7 @@
+{
+    "name": "Crystal Box",
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    }
+}
