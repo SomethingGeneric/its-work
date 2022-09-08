@@ -19,7 +19,7 @@ There are multiple instances of `endstream`, so I believe the document also has 
 The search box changes options because certain queries like `10` could be hex, decimal, or the user might want it interpreted as text. 
 ![image](https://user-images.githubusercontent.com/12242178/189202765-238ce826-a9bb-4272-9c67-1fa1224ed5a9.png)<br/>
 The program does ask you to prefix a specific hex value you're searching for with `0x`.
-If you enter something that cannot represent another type of data, the program then assumes you're searching for text.
+If you enter something that cannot represent another type of data, the program then assumes you're searching for text.<br/>
 ![image](https://user-images.githubusercontent.com/12242178/189202960-283b2205-2a45-4a0c-850b-0e93a1b6d366.png)
 
 ## Part 2
