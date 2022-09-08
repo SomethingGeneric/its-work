@@ -7,10 +7,13 @@ When looking for my text, `"This is some sample text"`, in the hex editor, I fou
 ![image](https://user-images.githubusercontent.com/12242178/189202043-3d60e1cd-0803-4621-9d1b-dfbf3d87c40b.png)
 
 When opening the `.pdf` file, which as a formatted file has lots of control codes, I couldn't find the sample text. However, I expect it's in-between the `stream` and `endstream` points that the editor identified.
+
 (Top of the file, showing the `stream` text)
 ![image](https://user-images.githubusercontent.com/12242178/189202275-90b0fb6d-70de-4b70-9209-c7242b7b4ff7.png)
+
 (Bottom of the file, with `endstream`)
 ![image](https://user-images.githubusercontent.com/12242178/189202561-a6eb50fe-f77e-4ddf-994d-5e48e2ea2df9.png)
+
 There are multiple instances of `endstream`, so I believe the document also has the font and size information encoded in it as well.
 
 The search box changes options because certain queries like `10` could be hex, decimal, or the user might want it interpreted as text. 
