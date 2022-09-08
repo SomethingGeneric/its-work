@@ -1,5 +1,7 @@
 ## Data Types and Representation
 
+### Journal: [link](journal-datatypes.md)
+
 ### Part 1
 When looking for my text, `"This is some sample text"`, in the hex editor, I found it easily with the `.txt` as there were very few other bits.
 ![image](https://user-images.githubusercontent.com/12242178/189202043-3d60e1cd-0803-4621-9d1b-dfbf3d87c40b.png)
