@@ -16,17 +16,17 @@ When opening the `.pdf` file, which as a formatted file has lots of control code
 
 There are multiple instances of `endstream`, so I believe the document also has the font and size information encoded in it as well.
 
-The search box changes options because certain queries like `10` could be hex, decimal, or the user might want it interpreted as text. 
+The search box changes options because certain queries like `10` could be hex, decimal, or the user might want it interpreted as text. <br/>
 ![image](https://user-images.githubusercontent.com/12242178/189202765-238ce826-a9bb-4272-9c67-1fa1224ed5a9.png)<br/>
 The program does ask you to prefix a specific hex value you're searching for with `0x`.
 If you enter something that cannot represent another type of data, the program then assumes you're searching for text.<br/>
 ![image](https://user-images.githubusercontent.com/12242178/189202960-283b2205-2a45-4a0c-850b-0e93a1b6d366.png)
 
 ## Part 2
-I belive the image was created with Photoshop on a Mac, as the file contains: `Adobe Photoshop CS4 Macintosh2011:01:14 14:32:2`
+I belive the image was created with Photoshop on a Mac, as the file contains: `Adobe Photoshop CS4 Macintosh2011:01:14 14:32:2`<br/>
 ![image](https://user-images.githubusercontent.com/12242178/189203690-6fb58955-61af-4215-907c-008833910a52.png)
 
-The hidden message would appear to be: `you found the hidden words!`
+The hidden message would appear to be: `you found the hidden words!`<br/>
 ![image](https://user-images.githubusercontent.com/12242178/189203807-c117032f-7d2f-4061-97be-dabd8811f623.png)
 
 ## Part 3
