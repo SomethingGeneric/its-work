@@ -4,10 +4,10 @@
 This article provides a rather useful illustration that compares decimal (base 10) to binary (base 2), and shows how the two systems both work in fundamentally the same way, despite having a different number of symbols to use to describe numbers with.
 
 A number in base 10 (decimal), for example, 156, is made up of one hundred, plus fifty, plus 6.
-`(1*10^2) + (5*10^1) + (6*10^0) = 100 + 5 + 6 = 156`
+<br/>`(1*10^2) + (5*10^1) + (6*10^0) = 100 + 5 + 6 = 156`
 
 In base 2 (binary), 156 would be 10011100, and is made up of 4 + 8 + 16 +128
-`(0*2^0) + (0*2^1) + (1*2^2) + (1*2^3) + (1*2^4) + (0*2^5) + (0*2^6) + (1*2^7) = 4 + 8 + 16 + 128`
+<br/>`(0*2^0) + (0*2^1) + (1*2^2) + (1*2^3) + (1*2^4) + (0*2^5) + (0*2^6) + (1*2^7) = 4 + 8 + 16 + 128`
 
 ### Key terms:
 Base 10 (also called decimal) is the typical number system that humans use. With a combination of 10 characters, \[0-9], we can describe any number.
