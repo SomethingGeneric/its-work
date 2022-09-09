@@ -1,4 +1,3 @@
-FROM crystallinux/crystal
-COPY .devcontainer/pacman.conf /etc/.
+FROM ghcr.io/crystal-linux/crystal
 COPY .devcontainer/bashrc /root/.bashrc
 RUN pacman -Syu --noconfirm && pacman -S --noconfirm neofetch
