@@ -1,4 +1,4 @@
-# Processors
+## Processors
 * Execute one instruction per clock cycle
 * Clock cycle speed measured in hertz.
   * Prefixes needed to describe how many cycles happen in a second
